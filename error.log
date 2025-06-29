@@ -1,0 +1,20 @@
+Building flutter tool...
+Got socket error trying to find package dds at https://pub.dev.
+Error: Unable to 'pub upgrade' flutter tool. Retrying in five seconds... (9 tries left)
+Got socket error trying to find package browser_launcher at https://pub.dev.
+Error: Unable to 'pub upgrade' flutter tool. Retrying in five seconds... (8 tries left)
+Got socket error trying to find package file at https://pub.dev.
+Error: Unable to 'pub upgrade' flutter tool. Retrying in five seconds... (7 tries left)
+Got socket error trying to find package coverage at https://pub.dev.
+Error: Unable to 'pub upgrade' flutter tool. Retrying in five seconds... (6 tries left)
+Got socket error trying to find package completion at https://pub.dev.
+Error: Unable to 'pub upgrade' flutter tool. Retrying in five seconds... (5 tries left)
+Got socket error trying to find package file at https://pub.dev.
+Error: Unable to 'pub upgrade' flutter tool. Retrying in five seconds... (4 tries left)
+Got socket error trying to find package dwds at https://pub.dev.
+Error: Unable to 'pub upgrade' flutter tool. Retrying in five seconds... (3 tries left)
+Got socket error trying to find package coverage at https://pub.dev.
+Error: Unable to 'pub upgrade' flutter tool. Retrying in five seconds... (2 tries left)
+Got socket error trying to find package file at https://pub.dev.
+Error: Unable to 'pub upgrade' flutter tool. Retrying in five seconds... (1 tries left)
+Command 'pub upgrade' still failed after 10 tries, giving up.

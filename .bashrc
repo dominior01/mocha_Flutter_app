@@ -1,0 +1,11 @@
+unset LD_PRELOAD
+export PATH=$PATH:$HOME/.fluttermux/flutter/bin
+export ANDROID=$HOME/.fluttermux/Android/
+export PATH=$ANDROID/platform-tools:$PATH
+export PATH=$ANDROID/cmdline-tools/latest/bin:$PATH
+export PATH=$ANDROID/cmdline-tools/latest:$PATH
+export ANDROID_SDK=$HOME/$ANDROID
+export PATH=$ANDROID_SDK:$PATH
+export JAVA_HOME=$HOME/.fluttermux/jdk-19.0.2
+export PATH=$PATH:$JAVA_HOME/bin
+export _JAVA_OPTIONS=-Djava.io.tmpdir=$PREFIX/tmp
